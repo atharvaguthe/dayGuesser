@@ -117,7 +117,7 @@ class Project {
         }
 
 
-        h = (day + (13 * (m + 1) / 5) + k + (k / 4) + (j / 4) - 2 * j);
+        h = (day + (13 * (m + 1) / 5) + k + (k / 4) + (j / 4) - 2 * j);        //Zeller's Congruence formula
 
         aDate = h % 7;
 
