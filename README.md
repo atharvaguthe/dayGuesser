@@ -29,5 +29,17 @@ J
 -
 
 
+
+Value of h :
+
+0 -> Thursday
+1 -> Friday
+2 -> Saturday
+3 -> Sunday
+4 -> Monday
+5 -> Tuesday
+6 -> Wednesday
+
+
   
 
