@@ -6,7 +6,8 @@ Zeller's Congruence
 
 Zeller's Congruence is a formula to find the day of the week for any date.
 
-Formula -
+Formula =
+-
   h = (day + (13 * (m + 1) / 5) + k + (k / 4) + (j / 4) - 2 * j) % 7.
   
 Where:
