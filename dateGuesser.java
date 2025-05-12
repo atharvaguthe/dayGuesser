@@ -28,7 +28,7 @@ class Project {
         System.out.print("Enter the Month (like for January -> 1, February -> 2...) :");
         month = sc.nextInt();
         
-        if(month == 1 ||month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12 ) { 
+        if(month == 1 ||month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12 ) {      //months with 31 days
             System.out.print("Enter the Day between 1 and 31:");
             day = sc.nextInt();
 
